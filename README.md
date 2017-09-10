@@ -1,4 +1,4 @@
-# Name: Megan Porter
+Name: Megan Porter
 Favorite Color: Blue
 Recipe for Chocoloate Chip Cookies: 
 Ingredients
